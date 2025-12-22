@@ -63,12 +63,13 @@ main{
     min-height: 100vh;
     padding:5rem 10% 30rem;
     margin-right: 13rem;
+    margin-top: 15rem;
 }
 .home{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 8rem;
+    gap: 1rem;
     background-color: black;
 }
 .home-img{
