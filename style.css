@@ -173,4 +173,8 @@ main{
         margin: 0 1rem;
         right: 40px;
     }
+    .home{
+        display: block;
+    }
 } 
+
